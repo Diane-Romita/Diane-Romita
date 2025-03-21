@@ -20,7 +20,6 @@
 - Slack Automation Workflow Templates
 - Salesforce Data Model Visualizations
 - Enablement Frameworks for GTM and CS Ops
-- Dreamforce Presentation Materials (Public Version)
 
 ### 🤝 Let’s Connect
 - LinkedIn: [linkedin.com/in/dromita]
